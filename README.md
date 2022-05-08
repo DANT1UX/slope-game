@@ -1,2 +1,2 @@
 # slope-game
-slope game by y8
+slope game made by y8 at https://www.y8.com/games/slope
