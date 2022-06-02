@@ -1,2 +1,5 @@
 # slope-game
-slope game made by y8 at https://www.y8.com/games/slope
+
+Slope game rip https://dant1ux.github.io/slope-game
+
+original game at https://www.y8.com/games/slope
